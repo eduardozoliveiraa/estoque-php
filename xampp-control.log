@@ -1,0 +1,26 @@
+14:47:37  [main] 	Initializing Control Panel
+14:47:37  [main] 	Windows Version:  Enterprise  64-bit
+14:47:37  [main] 	XAMPP Version: 8.2.12
+14:47:37  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+14:47:37  [main] 	You are not running with administrator rights! This will work for
+14:47:37  [main] 	most application stuff but whenever you do something with services
+14:47:37  [main] 	there will be a security dialogue or things will break! So think 
+14:47:37  [main] 	about running this application with administrator rights!
+14:47:37  [main] 	XAMPP Installation Directory: "c:\users\eduar\desktop\estoque\"
+14:47:37  [main] 	Checking for prerequisites
+14:47:38  [main] 	All prerequisites found
+14:47:38  [main] 	Initializing Modules
+14:47:38  [Tomcat] 	Problem detected!
+14:47:38  [Tomcat] 	Port 8080 in use by ""C:\Program Files\edb\pem\httpd\apache\bin\httpd.exe" -k runservice"!
+14:47:38  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+14:47:38  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+14:47:38  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+14:47:38  [main] 	Starting Check-Timer
+14:47:38  [main] 	Control Panel Ready
+14:47:41  [Apache] 	Attempting to start Apache app...
+14:47:41  [Apache] 	Status change detected: running
+14:47:42  [mysql] 	Attempting to start MySQL app...
+14:47:43  [mysql] 	Status change detected: running
+21:48:04  [main] 	Deinitializing Modules
+21:48:04  [main] 	Deinitializing Control Panel
+
